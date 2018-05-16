@@ -6,3 +6,4 @@ authors = ["drosario"]
 [dependencies]
 
 text_io = "0.1.7"
+derive-new = "0.5"
