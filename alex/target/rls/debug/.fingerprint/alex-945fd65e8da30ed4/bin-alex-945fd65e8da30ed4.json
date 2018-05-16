@@ -1,0 +1,1 @@
+{"rustc":15436741941175102969,"features":"[]","target":14667095372243756558,"profile":11810773307765771554,"path":1036222786711178230,"deps":[["text_io v0.1.7",1736660800817967247]],"local":[{"MtimeBased":[[1526492022,7821707],".fingerprint/alex-945fd65e8da30ed4/dep-bin-alex-945fd65e8da30ed4"]}],"rustflags":["--error-format=json"],"epoch":"Epoch2015"}

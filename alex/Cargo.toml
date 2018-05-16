@@ -1,0 +1,8 @@
+[package]
+name = "alex"
+version = "0.1.0"
+authors = ["drosario"]
+
+[dependencies]
+
+text_io = "0.1.7"
