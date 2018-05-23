@@ -7,3 +7,4 @@ authors = ["drosario"]
 
 text_io = "0.1.7"
 derive-new = "0.5"
+derive-getters = "0.0.3"
